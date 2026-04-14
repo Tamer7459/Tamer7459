@@ -6,10 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=Tamer7459&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tamer7459&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
 - 🔭 I'm currently working on **gfr-project**
 - 🌱 I'm currently learning **GraphQL & TypeScript**
 - 👯 I'm looking to collaborate on **Open Source Projects**
@@ -65,15 +61,6 @@
 </p>
 
 ---
-
-<!-- 📊 Stats Section -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tamer7459&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tamer7459&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Tamer7459&theme=tokyonight" />
