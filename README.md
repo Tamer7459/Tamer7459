@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tamer7459&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=Tamer7459&theme=algolia&no-frame=true&margin-w=10&margin-h=10](https://avatars.githubusercontent.com/u/192538244?s=400&u=ea0e9ccdc3ad59a05a985f58f3e2d4b4702455c2)" />
 </p>
 
 - 🔭 I'm currently working on **gfr-project**
@@ -37,7 +37,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tamer7459&show_icons=true&locale=en&layout=compact" alt="Tamer7459" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tamer7459&show_icons=true&locale=en" alt="Tamer7459" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tamer7459&show_icons=true&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tamer7459&" alt="Tamer7459" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tamer7459&theme=tokyonight" />
+</p>
 
