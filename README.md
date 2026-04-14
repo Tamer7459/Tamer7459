@@ -62,6 +62,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tamer7459&theme=tokyonight" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamer7459&show_icons=true&locale=en&layout=compact" alt="tamer7459" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamer7459&show_icons=true&locale=en" alt="tamer7459" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamer7459&" alt="tamer7459" /></p>
