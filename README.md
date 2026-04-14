@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=Tamer7459&theme=algolia&no-frame=true&margin-w=10&margin-h=10](https://avatars.githubusercontent.com/u/192538244?s=400&u=ea0e9ccdc3ad59a05a985f58f3e2d4b4702455c2)" />
+  <img src="https://avatars.githubusercontent.com/u/192538244?s=400&u=ea0e9ccdc3ad59a05a985f58f3e2d4b4702455c2" />
 </p>
 
 - 🔭 I'm currently working on **gfr-project**
