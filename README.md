@@ -16,17 +16,17 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_GnzA6R0in0QnPMqCs-z52sjUkbeS-8o/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/Tamer7459" target="blank">
+<p align="left" style="display: flex; gap: 10px;">
+  <a href="https://github.com/Tamer7459" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Tamer7459" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/abdelkouddous-bali-28032436a" target="blank">
+  <a href="https://linkedin.com/in/abdelkouddous-bali-28032436a" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelkouddous-bali-28032436a" height="30" width="40" />
   </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;" >
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/></a>
