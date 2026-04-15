@@ -2,7 +2,9 @@
 
 ### A passionate full stack developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tamer7459&label=Profile views&color=0e75b6&style=flat" alt="Tamer7459" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tamer7459&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tamer7459" alt="Tamer7459" /></a> </p>
 
